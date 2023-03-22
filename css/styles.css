@@ -1,0 +1,8 @@
+.body {
+  background-image: linear-gradient(to right, red, blue);
+}
+.title {
+  color: aliceblue;
+  margin: 600px;
+  text-align: center;
+}
