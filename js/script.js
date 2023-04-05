@@ -130,24 +130,48 @@
 // let wallet = 20;
 // console.log(salary(price, wallet));
 
-const fnA = function () {
-  console.log("is perfomed A");
-  fnB();
-};
-const fnB = function () {
-  console.log("is perfomed B");
-  fnC();
-};
-const fnC = function () {
-  console.log("is perfomed C");
-  fnD();
-};
-const fnD = function () {
-  console.log("is perfomed D");
-  fnE();
-};
-const fnE = function () {
-  console.log("is perfomed E");
-};
+// const fnA = function () {
+//   console.log("is perfomed A");
+//   fnB();
+// };
+// const fnB = function () {
+//   console.log("is perfomed B");
+//   fnC();
+// };
+// const fnC = function () {
+//   console.log("is perfomed C");
+//   fnD();
+// };
+// const fnD = function () {
+//   console.log("is perfomed D");
+//   fnE();
+// };
+// const fnE = function () {
+//   console.log("is perfomed E");
+// };
 
-fnA();
+// fnA();
+// const book = {
+//   title: "The Last Kingdom",
+//   author: "Bernard Cornwell",
+//   genres: ["historical prose", "adventure"],
+//   isPublic: true,
+//   rating: 8.38,
+// };
+// book.pageCount = 836;
+// book.originalLanguage = "en";
+// book.translations = ["ua", "pl"];
+
+// console.log(book);
+
+// const book = {
+//   title: "The Last Kingdom",
+//   author: "Bernard Cornwell",
+//   genres: ["historical prose", "adventure"],
+//   rating: 8.38,
+// };
+
+// for (const key in book) {
+//   console.log(key);
+//   console.log(book[key]);
+// }
